@@ -161,16 +161,16 @@ const Footer = () => {
           <Typography sx={{ mx: 2, color: "#ffff" }}>@2021 Whitpace LLC</Typography>
         </Box>
         <Box>
-          <IconButton sx={{ color: "#1976D2", mx: 0.5 }}>
+          <IconButton sx={{ color: "#ffff", mx: 0.5 }}>
             <FacebookIcon />
           </IconButton>
-          <IconButton sx={{ color: "#1976D2", mx: 0.5 }}>
+          <IconButton sx={{ color: "#ffff", mx: 0.5 }}>
             <TwitterIcon />
           </IconButton>
-          <IconButton sx={{ color: "#1976D2", mx: 0.5 }}>
+          <IconButton sx={{ color: "#ffff", mx: 0.5 }}>
             <InstagramIcon />
           </IconButton>
-          <IconButton sx={{ color: "#1976D2", mx: 0.5 }}>
+          <IconButton sx={{ color: "#ffff", mx: 0.5 }}>
             <LinkedInIcon />
           </IconButton>
         </Box>
