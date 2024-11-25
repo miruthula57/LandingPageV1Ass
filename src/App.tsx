@@ -104,6 +104,7 @@ const HeroImage = () => (
         style={{
           width: "100%",
           height: "auto",
+          padding:10,
           objectFit: "contain",
         }}
       />
